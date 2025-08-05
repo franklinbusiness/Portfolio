@@ -7,7 +7,7 @@ Hi, I'm Franklin 👋
 I'm a data analyst with 10+ years of Excel experience and 5+ years in Power BI. I specialize in **clean, user-friendly dashboards** and **top-tier data cleaning** that help businesses make better decisions.
 
 This repository showcases examples of:
-- ✅ **Data cleaning (before & after)**
+- ✅ **Data Cleaning (Before & Afters)**
 - ✅ **Excel Dashboards**
 - ✅ **Power BI Dashboards**
 
